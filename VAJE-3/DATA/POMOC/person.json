@@ -1,0 +1,9 @@
+{
+    "address": {
+        "city": "Ljubljana",
+        "street": "Dunajska"
+    },
+    "age": 31,
+    "married": false,
+    "name": "Alice"
+}
